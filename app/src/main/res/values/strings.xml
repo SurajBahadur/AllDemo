@@ -1,0 +1,133 @@
+<resources>
+    <string name="app_name">Base App</string>
+    <string name="no_internet_message">Internet connection appears to be offline. Please check your network settings.</string>
+    <string name="please_wait">Please wait…</string>
+    <string name="on">on</string>
+    <string name="nothing_available">Nothing available</string>
+    <string name="permission_denied">Permission has been denied, you need to give permission to do the operation, press OK to open settings</string>
+    <string name="not_visited_yet">Not visited yet!</string>
+    <string name="dialog_app_name">Best Tyme</string>
+
+    <array name="menuOptions">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+    </array>
+
+    <string name="icon_user">&#xf2bd;</string>
+    <string name="icon_lock">&#xf023;</string>
+
+    <string name="tag_menu">menu</string>
+    <string name="tag_content">content</string>
+    <string name="tag_menuu">menu</string>
+    <string name="search">Search..</string>
+    <string name="coupons">Coupons</string>
+    <string name="msg_subscribe_failed">Message Subscription Failed</string>
+    <string name="msg_subscribed">Successfully Subcribed</string>
+    <string name="show_dialog">Dialog</string>
+    <string name="shopping_amazon">Amazon</string>
+    <string name="shopping_flipkart">Flipkart</string>
+    <string name="shopping_snapdeal">Snapdeal</string>
+    <string name="shopping_shopclues">Shopclues</string>
+    <string name="shopping_jabong">Jabong</string>
+    <string name="shopping_myntra">Myntra</string>
+    <string name="shopping_paytm_mall">Paytm Mall</string>
+    <string name="shopping_tata_cliq">Tata Cliq</string>
+    <string name="shopping_pepper_fry">Pepper Fry</string>
+    <string name="shopping_first_cry">First Cry</string>
+    <string name="shopping_1mg">1mg</string>
+    <string name="shopping_ali_express">Ali Express</string>
+    <string name="social_facebook">Facebook</string>
+    <string name="social_insta">Instagram</string>
+    <string name="social_twitter">Twitter</string>
+    <string name="social_linkedin">LinkedIn</string>
+    <string name="social_telegram">Telegram</string>
+    <string name="socail_quora">Quora</string>
+    <string name="social_snapchat">Snapchat</string>
+    <string name="social_whatsapp">WhatsApp</string>
+    <string name="entertainment_youtube">Youtube</string>
+    <string name="entertainment_gaana">Gaana</string>
+    <string name="entertainment_hotstar">Hotstart</string>
+    <string name="entertainment_hangama">Hangama</string>
+    <string name="entertainment_saavn">Saavn</string>
+    <string name="entertainment_zee5">Zee5</string>
+    <string name="entertainment_sonyliv">SonyLIV</string>
+    <string name="entertainment_sharechat">ShareChat</string>
+    <string name="food_dominos">Domino\'s</string>
+    <string name="food_swiggy">Swiggy</string>
+    <string name="food_zomato">Zomato</string>
+    <string name="food_ubereat">UberEats</string>
+    <string name="food_pizzahut">Pizzahut</string>
+    <string name="food_kfc">KFC</string>
+    <string name="food_panda">Food Panda</string>
+    <string name="food_bigbasket">Big Basket</string>
+    <string name="utility_jd">Justdial</string>
+    <string name="utility_olx">OLX</string>
+    <string name="utility_bike">Bike</string>
+    <string name="utility_job">Job</string>
+    <string name="utility_dict">Dictionary</string>
+    <string name="utility_translate">Translate</string>
+    <string name="utility_train">Train</string>
+    <string name="utility_map">Map</string>
+    <string name="sports_cricbuzz">Cricbuzz</string>
+    <string name="sports_cnext">Cricnext</string>
+    <string name="sports_espn">Espn</string>
+    <string name="sports_tennis">Tennis</string>
+    <string name="sports_football">Football</string>
+    <string name="sports_fifa">Fifa</string>
+    <string name="recharge_paytm">Paytm</string>
+    <string name="recharge_freechar">FreeCharge</string>
+    <string name="recharge_mobikwik">Mobikwik</string>
+    <string name="recharge_jio">Jio</string>
+    <string name="recharge_airtel">Airtel</string>
+    <string name="recharge_phonepe">Recharge</string>
+    <string name="news_aajtak">Aaj Tak</string>
+    <string name="news_18">News 18</string>
+    <string name="news_ndtv">NDTV</string>
+    <string name="news_toi">TOI</string>
+    <string name="news_abp">ABP</string>
+    <string name="news_zee">ZeeNews</string>
+    <string name="health_1mg">1mg</string>
+    <string name="health_netmeds">netmeds</string>
+    <string name="health_medlife">MedLife</string>
+    <string name="health_healthkart">HealthKart</string>
+    <string name="health_himalaya">Himalaya</string>
+    <string name="health_nutrafy">Nutrafy</string>
+    <string name="health_pharmeasy">Pharmeasy</string>
+    <string name="health_pinhealth">Pinhealth</string>
+    <string name="category_entertainment">Entertainment</string>
+    <string name="category_food">Food</string>
+    <string name="category_health">Health</string>
+    <string name="category_news">News</string>
+    <string name="category_recharge">Recharge</string>
+    <string name="category_shopping">Shopping</string>
+    <string name="category_social">Social</string>
+    <string name="category_sports">Sports</string>
+    <string name="category_utility">Utility</string>
+    <string name="social_skype">Skype</string>
+    <string name="social_pinterest">Pinterest</string>
+    <string name="social_reddit">Reddit</string>
+    <string name="all_in_one">ALL IN ONE</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="title_activity_facts">FactsActivity</string>
+    <string name="title_activity_favourite">FavouriteActivity</string>
+    <string name="title_activity_category_updated">CategoryUpdatedActivity</string>
+
+</resources>

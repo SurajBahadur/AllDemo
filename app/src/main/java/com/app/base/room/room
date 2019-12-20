@@ -1,0 +1,16 @@
+
+https://medium.com/mindorks/android-architecture-components-room-and-kotlin-f7b725c8d1d
+
+ ENTITY :-
+ A Java or a Kotlin class which represents a table within the database.
+
+ DAO :-
+ DAO stands for DATA ACCESS OBJECT. This is basically an interface, which contains the methods
+ like getData() or storeData() etc.. which are used for accessing the database.
+ This interface will be implemented by the Room.
+
+Database :-
+This is an abstract class that extends RoomDatabase, this is where you define the
+entities (tables)and the version number of your database. It contains the database holder and
+serves as the main access point for the underlying connection.
+

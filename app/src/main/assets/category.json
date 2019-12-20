@@ -1,0 +1,376 @@
+{
+  "Social": [
+    {
+      "site_name": "Facebook",
+      "site_url": "https://m.facebook.com/"
+    },
+    {
+      "site_name": "Quora",
+      "site_url": "https://www.quora.com/"
+    },
+    {
+      "site_name": "Pinterest",
+      "site_url": "https://www.pinterest.com/"
+    },
+    {
+      "site_name": "Instagram",
+      "site_url": "https://www.instagram.com/"
+    },
+    {
+      "site_name": "LinkedIn",
+      "site_url": "https://www.linkedin.com/"
+    },
+    {
+      "site_name": "Blogger",
+      "site_url": "https://www.blogger.com/"
+    },
+    {
+      "site_name": "Twitter",
+      "site_url": "https://mobile.twitter.com/"
+    },
+    {
+      "site_name": "ShareChat",
+      "site_url": "https://sharechat.com/"
+    }
+  ],
+  "Entertainment": [
+    {
+      "site_name": "YouTube",
+      "site_url": "http://m.youtube.com/"
+    },
+    {
+      "site_name": "Google Entertainment",
+      "site_url": "https://www.google.co.in/search?sa=X&site=&q=entertainment+news&stick=H4sIAAAAAAAAAOOQV-LQz9U3MMrKKgEAB-tT-gwAAAA&mlp=1&hl=en&ved=0ahUKEwiZ25T2jobbAhXKb1AKHWPACr8Qkv4BCBA&biw=374&bih=665&dpr=2"
+    },
+    {
+      "site_name": "Gaana",
+      "site_url": "https://www.gaana.com/"
+    },
+    {
+      "site_name": "Hotstar",
+      "site_url": "https://www.hotstar.com/in"
+    },
+    {
+      "site_name": "Book My Show",
+      "site_url": "https://in.bookmyshow.com/select/region?referer=/"
+    },
+    {
+      "site_name": "IMDb",
+      "site_url": "https://www.m.imdb.com/"
+    },
+    {
+      "site_name": "Saavn",
+      "site_url": "https://www.jiosaavn.com/"
+    },
+    {
+      "site_name": "Voot",
+      "site_url": "https://www.voot.com/"
+    }
+  ],
+  "Sports": [
+    {
+      "site_name": "Cricbuzz",
+      "site_url": "https://m.cricbuzz.com/"
+    },
+    {
+      "site_name": "ESPN Cricket",
+      "site_url": "https://www.espncricinfo.com/"
+    },
+    {
+      "site_name": "IPLT20",
+      "site_url": "https://www.iplt20.com/"
+    },
+    {
+      "site_name": "NDTV Sports",
+      "site_url": "https://sports.ndtv.com/"
+    },
+    {
+      "site_name": "Google Sports",
+      "site_url": "https://www.google.co.in/search?site=&q=sports&ibp=spo%3B&hl=en&sa=X&ved=0ahUKEwjq0frPjYbbAhVBJ1AKHYuDCw4QlP4BCA8&biw=411&bih=731&dpr=2.63"
+    },
+    {
+      "site_name": "Sportskeeda",
+      "site_url": "https://www.sportskeeda.com/"
+    },
+    {
+      "site_name": "BCCI",
+      "site_url": "https://www.bcci.tv/"
+    },
+    {
+      "site_name": "HockeyIndia",
+      "site_url": "https://www.hockyindia.org/"
+    }
+  ],
+  "News": [
+    {
+      "site_name": "The Times of India",
+      "site_url": "https://m.timesofindia.com/"
+    },
+    {
+      "site_name": "ESPN Cricket",
+      "site_url": "https://www.espncricinfo.com/"
+    },
+    {
+      "site_name": "Indian Express",
+      "site_url": "https://indianexpress.com/"
+    },
+    {
+      "site_name": "Amar Ujala",
+      "site_url": "https://www.amarujala.com/"
+    },
+    {
+      "site_name": "Hindustan Times",
+      "site_url": "https://m.hindustantimes.com"
+    },
+    {
+      "site_name": "Live Hindustan",
+      "site_url": "https://m.livehindustan.com/"
+    },
+    {
+      "site_name": "Money Control",
+      "site_url": "https://www.moneycontrol.com/"
+    },
+    {
+      "site_name": "NDTV Gadgets",
+      "site_url": "https://gadgets.ndtv.com/"
+    }
+  ],
+  "Shopping": [
+    {
+      "site_name": "Amazon",
+      "site_url": "https://www.amazon.in/"
+    },
+    {
+      "site_name": "Justdial",
+      "site_url": "https://www.justdial.com/"
+    },
+    {
+      "site_name": "Flipkart",
+      "site_url": "https://www.flipkart.com/"
+    },
+    {
+      "site_name": "OLX",
+      "site_url": "https://www.olx.in/"
+    },
+    {
+      "site_name": "Snapdeal",
+      "site_url": "https://m.snapdeal.com"
+    },
+    {
+      "site_name": "Quikr",
+      "site_url": "https://www.quikr.com/"
+    },
+    {
+      "site_name": "91mobiles",
+      "site_url": "https://www.91mobiles.com/"
+    },
+    {
+      "site_name": "Sulekha",
+      "site_url": "https://www.sulekha.com/"
+    }
+  ],
+  "References": [
+    {
+      "site_name": "Wikipedia(English)",
+      "site_url": "https://en.m.wikipedia.org/wiki/Main_Page"
+    },
+    {
+      "site_name": "Shabdkosh",
+      "site_url": "https://www.shabdkosh.com/"
+    },
+    {
+      "site_name": "Wikipedia(Hindi)",
+      "site_url": "https://hi.wikipedia.org/wiki/%E0%A4%AE%E0%A5%81%E0%A4%96%E0%A4%AA%E0%A5%83%E0%A4%B7%E0%A5%8D%E0%A4%A0"
+    },
+    {
+      "site_name": "WikiHow",
+      "site_url": "https://m.wikihow.com/Main-Page"
+    },
+    {
+      "site_name": "MapsofIndia",
+      "site_url": "https://www.mapsofindia.com"
+    },
+    {
+      "site_name": "Wikimedia",
+      "site_url": "https://commons.m.wikimedia.org/wiki/Main_Page"
+    },
+    {
+      "site_name": "WebMD",
+      "site_url": "https://www.webmd.com/default.htm"
+    },
+    {
+      "site_name": "MyUpchar",
+      "site_url": "https://www.myupchar.com/"
+    }
+  ],
+  "Banking": [
+    {
+      "site_name": "SBI",
+      "site_url": "https://m.onlinesbi.com/"
+    },
+    {
+      "site_name": "HDFC",
+      "site_url": "https://www.hdfcbank.com/"
+    },
+    {
+      "site_name": "Paytm",
+      "site_url": "https://paytm.com"
+    },
+    {
+      "site_name": "BankBazaar",
+      "site_url": "https://www.bankbazaar.com"
+    },
+    {
+      "site_name": "ICICI Bank",
+      "site_url": "https://www.icicibank.com"
+    },
+    {
+      "site_name": "Bank IFSC Code",
+      "site_url": "https://banksifsccode.com"
+    },
+    {
+      "site_name": "Axis Bank",
+      "site_url": "https://www.axisbank.com/"
+    },
+    {
+      "site_name": "SBI Credit Card",
+      "site_url": "https://www.sbicard.com/"
+    }
+  ],
+  "Government": [
+    {
+      "site_name": "National Portal of india",
+      "site_url": "https://www.india.gov.in/"
+    },
+    {
+      "site_name": "Government Services Portal",
+      "site_url": "https://www.services.india.gov.in/"
+    },
+    {
+      "site_name": "India Post ",
+      "site_url": "https://www.indiapost.gov.in/vas/Pages/IndiaPostHome.aspx"
+    },
+    {
+      "site_name": "UIDAI Aadhaar",
+      "site_url": "https://uidai.gov.in/"
+    },
+    {
+      "site_name": "Andaman and Nicobar",
+      "site_url": "https://www.andamantourism.gov.in/"
+    },
+    {
+      "site_name": "Andhra Pradesh",
+      "site_url": "https://www.ap.gov.in/"
+    },
+    {
+      "site_name": "Arunachal Pradesh",
+      "site_url": "https://www.arunachalpradesh.gov.in/"
+    },
+    {
+      "site_name": "Assam",
+      "site_url": "https://www.assam.gov.in/"
+    }
+  ],
+  "Travel": [
+    {
+      "site_name": "Indian Rail Info",
+      "site_url": "https://indiarailinfo.com/"
+    },
+    {
+      "site_name": "Makemytrip",
+      "site_url": "https://www.makemytrip.com/"
+    },
+    {
+      "site_name": "National Train Enquiry System",
+      "site_url": "https://enquiry.indianrail.gov.in/mntes/"
+    },
+    {
+      "site_name": "RailYatri",
+      "site_url": "https://www.railyatri.in/m"
+    },
+    {
+      "site_name": "Indian Railways",
+      "site_url": "http://www.indianrail.gov.in/enquiry/StaticPages/StaticEnquiry.jsp?StaticPage=index.html"
+    },
+    {
+      "site_name": "IRCTC",
+      "site_url": "https://www.irctc.co.in/nget/train-search"
+    },
+    {
+      "site_name": "Trains PNR Status",
+      "site_url": "https://www.trainspnrstatus.com/"
+    },
+    {
+      "site_name": "TripAdvisor",
+      "site_url": "https://www.tripadvisor.in/"
+    }
+  ],
+  "Education": [
+    {
+      "site_name": "JagranJosh",
+      "site_url": "https://m.jagranjosh.com/"
+    },
+    {
+      "site_name": "AglaSem Admission",
+      "site_url": "https://admission.aglasem.com/"
+    },
+    {
+      "site_name": "CBSE Results",
+      "site_url": "https://cbseresults.nic.in"
+    },
+    {
+      "site_name": "Learn CBSE",
+      "site_url": "https://www.learncbse.in"
+    },
+    {
+      "site_name": "Grade Up",
+      "site_url": "https://gradeup.co/"
+    },
+    {
+      "site_name": "CBSE",
+      "site_url": "http://cbse.nic.in/newsite/index.html"
+    },
+    {
+      "site_name": "Brainly",
+      "site_url": "https://brainly.in/"
+    },
+    {
+      "site_name": "West Bengal SSC",
+      "site_url": "http://westbengalssc.com/sscorg/wbssc/home/"
+    }
+  ],
+  "Jobs": [
+    {
+      "site_name": "Naukri",
+      "site_url": "https://www.naukri.com/"
+    },
+    {
+      "site_name": "Sarkari Result",
+      "site_url": "https://www.sarkariresult.com/"
+    },
+    {
+      "site_name": "Google Jobs Search",
+      "site_url": "https://www.google.com/search?q=jobs+near+me&ibp=htl;jobs"
+    },
+    {
+      "site_name": "Indeed",
+      "site_url": "https://www.indeed.co.in/m/"
+    },
+    {
+      "site_name": "Free Job Alert",
+      "site_url": "https://www.freejobalert.com/"
+    },
+    {
+      "site_name": "Fresher Live",
+      "site_url": "http://www.fresherlive.com"
+    },
+    {
+      "site_name": "UPTET",
+      "site_url": "https://www.uptet.help/?m=1"
+    },
+    {
+      "site_name": "Sarkar Result",
+      "site_url": "https://sarkariresults.info/"
+    }
+  ]
+}

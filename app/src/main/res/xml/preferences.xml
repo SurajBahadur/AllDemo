@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="Notification">
+        <CheckBoxPreference
+            android:defaultValue="true"
+            android:key="notification_alert"
+            android:summary="Recieve notification if someone delete message"
+            android:title="Notification Alerts" />
+        <CheckBoxPreference
+            android:defaultValue="true"
+            android:key="notification_sound"
+            android:title="Notification Sound" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="General">
+        <Preference
+            android:key="clear_messages"
+            android:summary="This will clear all stored messages in the app."
+            android:title="Clear messages" />
+        <Preference
+            android:key="sharetheapp"
+            android:summary="Tell your friends about the app."
+            android:title="Share the app" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="Support">
+        <Preference
+            android:key="help_faq"
+            android:summary="Got some queries? "
+            android:title="Help" />
+        <Preference
+            android:key="emailus"
+            android:summary="Still got questions? Email support anytime!"
+            android:title="Contact Support" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="About">
+        <Preference
+            android:key="version"
+            android:summary=""
+            android:title="Version" />
+        <PreferenceScreen android:title="Privacy Policy">
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="https://sites.google.com/view/privacy-policy-page/" />
+        </PreferenceScreen>
+    </PreferenceCategory>
+</PreferenceScreen>
