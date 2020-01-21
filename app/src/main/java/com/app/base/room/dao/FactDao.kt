@@ -5,6 +5,7 @@ import androidx.room.Dao
 import androidx.room.Insert
 import androidx.room.OnConflictStrategy.REPLACE
 import androidx.room.Query
+import com.app.base.room.entity.ContactData
 import com.app.base.room.entity.FactData
 
 /**
@@ -34,5 +35,7 @@ interface FactDao {
 
     @Query("SELECT * FROM factData where save_status=:status")
     suspend fun getFavFacts(status: Boolean): List<FactData>
+
+
 
 }

@@ -19,8 +19,8 @@ import kotlinx.coroutines.runBlocking
  */
 class FactsViewModel(application: Application) : AndroidViewModel(application) {
 
-    val repository: FactsRepository
-    val allFacts: LiveData<MutableList<FactData>>
+    private val repository: FactsRepository
+    private val allFacts: LiveData<MutableList<FactData>>
 
     val facts = MediatorLiveData<List<FactData>>()
 
