@@ -26,7 +26,7 @@
         tools:ignore="GoogleAppIndexingWarning">
         <activity android:name=".ui.call.add.AddMemberActivity" />
         <activity
-            android:name=".ui.call.home.CallFamilyActivity"
+            android:name=".ui.aroundme.AroundMeActivity"
             android:theme="@style/AppTheme.NoActionBar">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

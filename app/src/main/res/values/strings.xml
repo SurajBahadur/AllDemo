@@ -129,5 +129,10 @@
     <string name="title_activity_facts">FactsActivity</string>
     <string name="title_activity_favourite">FavouriteActivity</string>
     <string name="title_activity_category_updated">CategoryUpdatedActivity</string>
+    <string name="tab_recent_stories">Recent Stories</string>
+    <string name="tab_saved_stories">Saved Stories</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 
 </resources>

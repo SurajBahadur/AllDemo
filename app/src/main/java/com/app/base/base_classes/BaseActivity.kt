@@ -62,7 +62,7 @@ open abstract class BaseActivity : AppCompatActivity() {
     override fun onActivityResult(requestCode: Int, resultCode: Int, data: Intent?) {
         super.onActivityResult(requestCode, resultCode, data)
         // pass activity's  result to the fragments
-        val fragment = supportFragmentManager.findFragmentById(R.id.container_main)
+        val fragment = supportFragmentManager.findFragmentById(R.id.content_request_otp)
         fragment?.onActivityResult(requestCode, resultCode, data)
 
     }
@@ -79,7 +79,7 @@ open abstract class BaseActivity : AppCompatActivity() {
 
     override fun onRequestPermissionsResult(requestCode: Int, permissions: Array<String>, grantResults: IntArray) {
         super.onRequestPermissionsResult(requestCode, permissions, grantResults)
-        val fragment = supportFragmentManager.findFragmentById(R.id.container_main)
+        val fragment = supportFragmentManager.findFragmentById(R.id.content_received_otp)
         fragment?.onRequestPermissionsResult(requestCode, permissions, grantResults)
     }
 

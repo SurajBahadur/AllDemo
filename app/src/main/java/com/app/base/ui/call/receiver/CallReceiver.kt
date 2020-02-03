@@ -21,14 +21,14 @@ class CallReceiver : BroadcastReceiver() {
         numberList.add("+919149419081")
         numberList.add("+917355173572")
 
-        val contactDao = FactDatabase.getInstance(context)!!.contactDao()
-        Log.d("ttttd", contactDao.getNumberDetail("123456789").size.toString())
         val telephony = context.getSystemService(Context.TELEPHONY_SERVICE) as TelephonyManager
         telephony.listen(object : PhoneStateListener() {
             override fun onCallStateChanged(state: Int, Number: String) {
                 super.onCallStateChanged(state, Number)
-                Log.d("tttt", Number)
-                Toast.makeText(context, Number, Toast.LENGTH_SHORT).show()
+                val contactDao = FactDatabase.getInstance(context)!!.contactDao()
+                Log.d("ttttd", contactDao.getNumberDetail("123456789").size.toString())
+
+                Toast.makeText(context, "${contactDao.getNumberDetail(Number).size.toString()}", Toast.LENGTH_SHORT).show()
                 // Compare your number to from this `Number` if it is found in you list then make ring state RINGER_MODE_NORMAL
                 // else make it to RINGER_MODE_SILENT
                 if (!numberList.contains(Number)) { // to make Ring state silent

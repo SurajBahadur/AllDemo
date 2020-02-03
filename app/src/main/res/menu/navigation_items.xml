@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <item
+        android:id="@+id/tab_recent_stories"
+        android:icon="@drawable/ic_recent_story"
+        android:orderInCategory="100"
+        android:title="@string/tab_recent_stories" />
+
+    <item
+        android:id="@+id/tab_saved_stories"
+        android:icon="@drawable/ic_saved_story"
+        android:orderInCategory="100"
+        android:title="@string/tab_saved_stories" />
+
+</menu>

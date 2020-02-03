@@ -1,0 +1,470 @@
+{
+  "data": [
+    {
+      "categoryName": "Lodging",
+      "subCategoryList": [
+        {
+          "categoryName": "Hotel",
+          "categoryIcon": "hotel"
+        },
+        {
+          "categoryName": "Guest House",
+          "categoryIcon": "home"
+        },
+        {
+          "categoryName": "Motel",
+          "categoryIcon": ""
+        },
+        {
+          "categoryName": "Camping",
+          "categoryIcon": ""
+        },
+        {
+          "categoryName": "Hostel",
+          "categoryIcon": ""
+        },
+        {
+          "categoryName": "Apartment",
+          "categoryIcon": ""
+        }
+      ]
+    },
+    {
+      "categoryName": "Shops",
+      "subCategoryList": [
+        {
+          "categoryName": "Super Market",
+          "categoryIcon": ""
+        },
+        {
+          "categoryName": "Clothes Shop",
+          "categoryIcon": ""
+        },
+        {
+          "categoryName": "Mall",
+          "categoryIcon": ""
+        },
+        {
+          "categoryName": "Market Place",
+          "categoryIcon": ""
+        },
+        {
+          "categoryName": "Hardware Store",
+          "categoryIcon": ""
+        },
+        {
+          "categoryName": "Furniture Store",
+          "categoryIcon": ""
+        },
+        {
+          "categoryName": "Liquor Store",
+          "categoryIcon": ""
+        },
+        {
+          "categoryName": "Shoe Store",
+          "categoryIcon": ""
+        },
+        {
+          "categoryName": "Department Store",
+          "categoryIcon": ""
+        },
+        {
+          "categoryName": "Sports Goods",
+          "categoryIcon": ""
+        },
+        {
+          "categoryName": "Bakery",
+          "categoryIcon": ""
+        },
+        {
+          "categoryName": "Computer Store",
+          "categoryIcon": ""
+        },
+        {
+          "categoryName": "Jewellery",
+          "categoryIcon": ""
+        },
+        {
+          "categoryName": "Book Store",
+          "categoryIcon": ""
+        },
+        {
+          "categoryName": "Beauty Shop",
+          "categoryIcon": ""
+        },
+        {
+          "categoryName": "Butcher's",
+          "categoryIcon": ""
+        },
+        {
+          "categoryName": "Toy Store",
+          "categoryIcon": ""
+        },
+        {
+          "categoryName": "Florist's",
+          "categoryIcon": ""
+        },
+        {
+          "categoryName": "Pet Shop",
+          "categoryIcon": ""
+        },
+        {
+          "categoryName": "Gift Shop",
+          "categoryIcon": ""
+        },
+        {
+          "categoryName": "Ticket Shop",
+          "categoryIcon": ""
+        },
+        {
+          "categoryName": "Sweets",
+          "categoryIcon": ""
+        },
+        {
+          "categoryName": "Kiosk",
+          "categoryIcon": ""
+        },
+        {
+          "categoryName": "Wine Shop",
+          "categoryIcon": ""
+        },
+        {
+          "categoryName": "Photo Shop",
+          "categoryIcon": ""
+        },
+        {
+          "categoryName": "Chemist Shop",
+          "categoryIcon": ""
+        }
+      ]
+    },
+    {
+      "categoryName": "Health",
+      "subCategoryList": [
+        {
+          "categoryName": "Hospital",
+          "categoryIcon": ""
+        },
+        {
+          "categoryName": "Clinic",
+          "categoryIcon": ""
+        },
+        {
+          "categoryName": "Pharmacy",
+          "categoryIcon": ""
+        },
+        {
+          "categoryName": "Doctor",
+          "categoryIcon": ""
+        },
+        {
+          "categoryName": "Dentist",
+          "categoryIcon": ""
+        },
+        {
+          "categoryName": "Veterinary Doctor",
+          "categoryIcon": ""
+        }
+      ]
+    },
+    {
+      "categoryName": "Transport",
+      "subCategoryList": [
+        {
+          "categoryName": "Bus Station",
+          "categoryIcon": ""
+        },
+        {
+          "categoryName": "Gas Station",
+          "categoryIcon": ""
+        },
+        {
+          "categoryName": "Train Station",
+          "categoryIcon": ""
+        },
+        {
+          "categoryName": "Taxi",
+          "categoryIcon": ""
+        },
+        {
+          "categoryName": "Airport",
+          "categoryIcon": ""
+        },
+        {
+          "categoryName": "Parking",
+          "categoryIcon": ""
+        },
+        {
+          "categoryName": "Car Rental",
+          "categoryIcon": ""
+        },
+        {
+          "categoryName": "Subway",
+          "categoryIcon": ""
+        },
+        {
+          "categoryName": "Car Sharing",
+          "categoryIcon": ""
+        }
+      ]
+    },
+    {
+      "categoryName": "Finance",
+      "subCategoryList": [
+        {
+          "categoryName": "Bank",
+          "categoryIcon": ""
+        },
+        {
+          "categoryName": "Post",
+          "categoryIcon": ""
+        },
+        {
+          "categoryName": "ATM",
+          "categoryIcon": ""
+        }
+      ]
+    },
+    {
+      "categoryName": "Food",
+      "subCategoryList": [
+        {
+          "categoryName": "Restaurant",
+          "categoryIcon": ""
+        },
+        {
+          "categoryName": "Cafe",
+          "categoryIcon": ""
+        },
+        {
+          "categoryName": "Fast Food",
+          "categoryIcon": ""
+        },
+        {
+          "categoryName": "Bar",
+          "categoryIcon": ""
+        },
+        {
+          "categoryName": "Pub",
+          "categoryIcon": ""
+        }
+      ]
+    },
+    {
+      "categoryName": "Business",
+      "subCategoryList": [
+        {
+          "categoryName": "Company Office",
+          "categoryIcon": ""
+        },
+        {
+          "categoryName": "Car Parts",
+          "categoryIcon": ""
+        },
+        {
+          "categoryName": "Laundry",
+          "categoryIcon": ""
+        },
+        {
+          "categoryName": "Car Shop",
+          "categoryIcon": ""
+        },
+        {
+          "categoryName": "Car Wash",
+          "categoryIcon": ""
+        },
+        {
+          "categoryName": "Optician's",
+          "categoryIcon": ""
+        },
+        {
+          "categoryName": "Lawyer",
+          "categoryIcon": ""
+        },
+        {
+          "categoryName": "Dry Cleaning",
+          "categoryIcon": ""
+        },
+        {
+          "categoryName": "Tyre Repair",
+          "categoryIcon": ""
+        }
+      ]
+    },
+    {
+      "categoryName": "Education",
+      "subCategoryList": [
+        {
+          "categoryName": "School",
+          "categoryIcon": ""
+        },
+        {
+          "categoryName": "College",
+          "categoryIcon": ""
+        },
+        {
+          "categoryName": "University",
+          "categoryIcon": ""
+        },
+        {
+          "categoryName": "Car Shop",
+          "categoryIcon": ""
+        },
+        {
+          "categoryName": "Car Wash",
+          "categoryIcon": ""
+        },
+        {
+          "categoryName": "Optician's",
+          "categoryIcon": ""
+        },
+        {
+          "categoryName": "Lawyer",
+          "categoryIcon": ""
+        },
+        {
+          "categoryName": "Dry Cleaning",
+          "categoryIcon": ""
+        },
+        {
+          "categoryName": "Tyre Repair",
+          "categoryIcon": ""
+        }
+      ]
+    },
+    {
+      "categoryName": "Entertainment",
+      "subCategoryList": [
+        {
+          "categoryName": "Park",
+          "categoryIcon": ""
+        },
+        {
+          "categoryName": "Sauna",
+          "categoryIcon": ""
+        },
+        {
+          "categoryName": "Night Club",
+          "categoryIcon": ""
+        },
+        {
+          "categoryName": "Cinema",
+          "categoryIcon": ""
+        },
+        {
+          "categoryName": "Stadium",
+          "categoryIcon": ""
+        },
+        {
+          "categoryName": "Cinema",
+          "categoryIcon": ""
+        },
+        {
+          "categoryName": "Stadium",
+          "categoryIcon": ""
+        },
+        {
+          "categoryName": "Library",
+          "categoryIcon": ""
+        },
+        {
+          "categoryName": "Casino",
+          "categoryIcon": ""
+        },
+        {
+          "categoryName": "Fitness Centre",
+          "categoryIcon": ""
+        },
+        {
+          "categoryName": "Swimming Pool",
+          "categoryIcon": ""
+        },
+        {
+          "categoryName": "Theatre",
+          "categoryIcon": ""
+        },
+        {
+          "categoryName": "Water Park",
+          "categoryIcon": ""
+        },
+        {
+          "categoryName": "Zoo",
+          "categoryIcon": ""
+        },
+        {
+          "categoryName": "Pier",
+          "categoryIcon": ""
+        },
+        {
+          "categoryName": "Multi Sport Pitch",
+          "categoryIcon": ""
+        },
+        {
+          "categoryName": "Football Pitch",
+          "categoryIcon": ""
+        },
+        {
+          "categoryName": "Basketball Pitch",
+          "categoryIcon": ""
+        },
+        {
+          "categoryName": "Athletics",
+          "categoryIcon": ""
+        }
+      ]
+    },
+    {
+      "categoryName": "Attraction",
+      "subCategoryList": [
+        {
+          "categoryName": "Church",
+          "categoryIcon": ""
+        },
+        {
+          "categoryName": "Attraction",
+          "categoryIcon": ""
+        },
+        {
+          "categoryName": "Mosque",
+          "categoryIcon": ""
+        },
+        {
+          "categoryName": "ViewPoint",
+          "categoryIcon": ""
+        },
+        {
+          "categoryName": "Museum",
+          "categoryIcon": ""
+        },
+        {
+          "categoryName": "Castle",
+          "categoryIcon": ""
+        },
+        {
+          "categoryName": "Monument",
+          "categoryIcon": ""
+        },
+        {
+          "categoryName": "Memorial",
+          "categoryIcon": ""
+        },
+        {
+          "categoryName": "Synagogue",
+          "categoryIcon": ""
+        },
+        {
+          "categoryName": "Tomb",
+          "categoryIcon": ""
+        },
+        {
+          "categoryName": "Wayside Shrine",
+          "categoryIcon": ""
+        },
+        {
+          "categoryName": "Temple",
+          "categoryIcon": ""
+        }
+      ]
+    }
+  ]
+}
